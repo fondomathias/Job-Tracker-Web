@@ -28,7 +28,7 @@
     "title": "Regional Research Economist, Economic Research",
     "country": "United Kingdom",
     "score": 37,
-    "deadline": "2026-08-27",
+    "deadline": "2026-09-18",
     "link": "https://uk.linkedin.com/jobs/view/regional-research-economist-economic-research-at-anthropic-4423246832",
     "status": "Not started"
   },
@@ -41,6 +41,17 @@
     "score": 34,
     "deadline": "2026-08-26",
     "link": "https://nl.linkedin.com/jobs/view/researcher-lecturer-%E2%80%98public-policy-for-sustainability-transformations-at-wageningen-university-research-4453754593",
+    "status": "Not started"
+  },
+  {
+    "id": "12537",
+    "source": "EJME",
+    "institution": "University of Fribourg",
+    "title": "Professorship in Applied Microeconomics (Open Rank)",
+    "country": "Switzerland",
+    "score": 32,
+    "deadline": "2026-09-21",
+    "link": "https://econjobmarket.org/positions/12537",
     "status": "Not started"
   },
   {
@@ -88,6 +99,17 @@
     "status": "Not started"
   },
   {
+    "id": "12665",
+    "source": "EJME",
+    "institution": "Institute for Fiscal Studies",
+    "title": "Postdoctoral Fellow",
+    "country": "United Kingdom",
+    "score": 29,
+    "deadline": "2026-11-15",
+    "link": "https://econjobmarket.org/positions/12665",
+    "status": "Not started"
+  },
+  {
     "id": "4458794025",
     "source": "LinkedIn",
     "institution": "Det utdanningsvitenskapelige fakultet (UiO)",
@@ -132,14 +154,14 @@
     "status": "Not started"
   },
   {
-    "id": "12537",
-    "source": "EJM + EJME",
-    "institution": "University of Fribourg",
-    "title": "Professorship in Applied Microeconomics (Open Rank)",
-    "country": "Switzerland",
+    "id": "12664",
+    "source": "EJM",
+    "institution": "Maastricht University",
+    "title": "Assistant Professor in Macroeconomics (tenure-track)",
+    "country": "Netherlands",
     "score": 26,
-    "deadline": "2026-09-21",
-    "link": "https://econjobmarket.org/positions/12537",
+    "deadline": "2026-11-15",
+    "link": "https://econjobmarket.org/positions/12664",
     "status": "Not started"
   },
   {
@@ -165,17 +187,6 @@
     "status": "Not started"
   },
   {
-    "id": "4440012443",
-    "source": "LinkedIn",
-    "institution": "Interdisciplinary Transformation University (IT:U)",
-    "title": "Postdoc Position in Data-Driven Sustainability Policy and Economics",
-    "country": "Austria",
-    "score": 24,
-    "deadline": "2026-08-24",
-    "link": "https://at.linkedin.com/jobs/view/postdoc-position-in-data-driven-sustainability-policy-and-economics-at-interdisciplinary-transformation-university-it-u-4440012443",
-    "status": "Not started"
-  },
-  {
     "id": "4461139255",
     "source": "LinkedIn",
     "institution": "Newcastle University",
@@ -184,6 +195,17 @@
     "score": 24,
     "deadline": "2026-09-10",
     "link": "https://uk.linkedin.com/jobs/view/lecturer-in-economics-at-newcastle-university-4461139255",
+    "status": "Not started"
+  },
+  {
+    "id": "4440012443",
+    "source": "LinkedIn",
+    "institution": "Interdisciplinary Transformation University (IT:U)",
+    "title": "Postdoc Position in Data-Driven Sustainability Policy and Economics",
+    "country": "Austria",
+    "score": 24,
+    "deadline": "2026-09-15",
+    "link": "https://at.linkedin.com/jobs/view/postdoc-position-in-data-driven-sustainability-policy-and-economics-at-interdisciplinary-transformation-university-it-u-4440012443",
     "status": "Not started"
   },
   {
@@ -275,6 +297,17 @@
     "status": "Not started"
   },
   {
+    "id": "4461786580",
+    "source": "LinkedIn",
+    "institution": "Eindhoven University of Technology",
+    "title": "Postdoc In Algebraic Graph Theory and Applications",
+    "country": "Netherlands",
+    "score": 22,
+    "deadline": "2026-09-14",
+    "link": "https://nl.linkedin.com/jobs/view/postdoc-in-algebraic-graph-theory-and-applications-at-eindhoven-university-of-technology-4461786580",
+    "status": "Not started"
+  },
+  {
     "id": "12555",
     "source": "EJM + EJME",
     "institution": "Universit\u00e9 Paris-Dauphine",
@@ -305,6 +338,28 @@
     "score": 21,
     "deadline": "2026-09-10",
     "link": "https://at.linkedin.com/jobs/view/postdoctoral-researcher-quantitative-methods-m-f-d-at-universit%C3%A4t-f%C3%BCr-weiterbildung-krems-4464521309",
+    "status": "Not started"
+  },
+  {
+    "id": "4468634703",
+    "source": "LinkedIn",
+    "institution": "DTU - Technical University of Denmark",
+    "title": "Associate Professor or DTU Tenure Track Assistant Professor in Sustainable Travel Behaviour - DTU Management",
+    "country": "Denmark",
+    "score": 21,
+    "deadline": "2026-09-17",
+    "link": "https://dk.linkedin.com/jobs/view/associate-professor-or-dtu-tenure-track-assistant-professor-in-sustainable-travel-behaviour-dtu-management-at-dtu-technical-university-of-denmark-4468634703",
+    "status": "Not started"
+  },
+  {
+    "id": "4468205618",
+    "source": "LinkedIn",
+    "institution": "Universit\u00e4tsmedizin Frankfurt",
+    "title": "Postdoctoral Researcher Health Economics / Health Data Science \u2013 EU-MIC Project - Department of Psychiatry, Psychosomatic Medicine and Psychotherapy",
+    "country": "Germany",
+    "score": 21,
+    "deadline": "2026-09-18",
+    "link": "https://de.linkedin.com/jobs/view/postdoctoral-researcher-health-economics-health-data-science-%E2%80%93-eu-mic-project-department-of-psychiatry-psychosomatic-medicine-and-psychotherapy-at-universit%C3%A4tsmedizin-frankfurt-4468205618",
     "status": "Not started"
   },
   {
@@ -385,6 +440,28 @@
     "status": "Not started"
   },
   {
+    "id": "4469568626",
+    "source": "LinkedIn",
+    "institution": "Barcelona Supercomputing Center",
+    "title": "Postdoctoral Researcher for Semantic and Citation Networks (R2)",
+    "country": "Spain",
+    "score": 20,
+    "deadline": "2026-09-20",
+    "link": "https://es.linkedin.com/jobs/view/postdoctoral-researcher-for-semantic-and-citation-networks-r2-at-barcelona-supercomputing-center-4469568626",
+    "status": "Not started"
+  },
+  {
+    "id": "12650",
+    "source": "EJM",
+    "institution": "McGill University",
+    "title": "Assistant Professor, Any Field",
+    "country": "Canada",
+    "score": 19,
+    "deadline": "2026-11-15",
+    "link": "https://econjobmarket.org/positions/12650",
+    "status": "Not started"
+  },
+  {
     "id": "4460150031",
     "source": "LinkedIn",
     "institution": "University of Amsterdam",
@@ -426,6 +503,17 @@
     "score": 19,
     "deadline": "2026-09-11",
     "link": "https://nl.linkedin.com/jobs/view/two-assistant-professors-in-public-administration-nl-at-leiden-university-4457016522",
+    "status": "Not started"
+  },
+  {
+    "id": "4467861979",
+    "source": "LinkedIn",
+    "institution": "De Haagse Hogeschool / The Hague University of Applied Sciences",
+    "title": "Lecturer Economics, Statistics and Applied Research",
+    "country": "Netherlands",
+    "score": 19,
+    "deadline": "2026-09-18",
+    "link": "https://nl.linkedin.com/jobs/view/lecturer-economics-statistics-and-applied-research-at-de-haagse-hogeschool-the-hague-university-of-applied-sciences-4467861979",
     "status": "Not started"
   },
   {
@@ -495,14 +583,58 @@
     "status": "Not started"
   },
   {
+    "id": "4466524799",
+    "source": "LinkedIn",
+    "institution": "Tampere University",
+    "title": "Postdoctoral Research Fellow (Gamification / Games / XR / GenAI / Emerging Media for Engagement with Sustainable Futures), 1-3 positions / Tutkijatohtori, 1-3 teht\u00e4v\u00e4\u00e4",
+    "country": "Finland",
+    "score": 18,
+    "deadline": "2026-09-15",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-research-fellow-gamification-games-xr-genai-emerging-media-for-engagement-with-sustainable-futures-1-3-positions-tutkijatohtori-1-3-teht%C3%A4v%C3%A4%C3%A4-at-tampere-university-4466524799",
+    "status": "Not started"
+  },
+  {
     "id": "4467080796",
     "source": "LinkedIn",
     "institution": "DTU - Technical University of Denmark",
     "title": "Postdoc in Public Administration; AI & Citizen Engagement - DTU Management",
     "country": "Denmark",
     "score": 18,
-    "deadline": "2026-09-14",
+    "deadline": "2026-09-16",
     "link": "https://dk.linkedin.com/jobs/view/postdoc-in-public-administration-ai-citizen-engagement-dtu-management-at-dtu-technical-university-of-denmark-4467080796",
+    "status": "Not started"
+  },
+  {
+    "id": "4463520109",
+    "source": "LinkedIn",
+    "institution": "University of Helsinki",
+    "title": "Postdoctoral researcher in synthesis and analysis",
+    "country": "Finland",
+    "score": 18,
+    "deadline": "2026-09-17",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-in-synthesis-and-analysis-at-university-of-helsinki-4463520109",
+    "status": "Not started"
+  },
+  {
+    "id": "4449922385",
+    "source": "LinkedIn",
+    "institution": "Leiden University",
+    "title": "Postdoc on Causal Machine Learning for Spatio-temporal Datasets- NL",
+    "country": "Netherlands",
+    "score": 18,
+    "deadline": "2026-09-18",
+    "link": "https://nl.linkedin.com/jobs/view/postdoc-on-causal-machine-learning-for-spatio-temporal-datasets-nl-at-leiden-university-4449922385",
+    "status": "Not started"
+  },
+  {
+    "id": "4468765790",
+    "source": "LinkedIn",
+    "institution": "University of Helsinki",
+    "title": "POSTDOCTORAL RESEARCHER in Quantum Computing Middleware and Applications",
+    "country": "Finland",
+    "score": 18,
+    "deadline": "2026-09-21",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-in-quantum-computing-middleware-and-applications-at-university-of-helsinki-4468765790",
     "status": "Not started"
   },
   {
@@ -627,25 +759,14 @@
     "status": "Not started"
   },
   {
-    "id": "4458746346",
+    "id": "4467262590",
     "source": "LinkedIn",
-    "institution": "University of Amsterdam",
-    "title": "Tenured Faculty Position in Analysis (assistant, associate or Full Professor)",
-    "country": "Netherlands",
-    "score": 16,
-    "deadline": "2026-08-25",
-    "link": "https://nl.linkedin.com/jobs/view/tenured-faculty-position-in-analysis-assistant-associate-or-full-professor-at-university-of-amsterdam-4458746346",
-    "status": "Not started"
-  },
-  {
-    "id": "4456964239",
-    "source": "LinkedIn",
-    "institution": "The University of Edinburgh",
-    "title": "Early Career Fellow / Lecturer in Digital Innovation and Artificial Intelligence",
-    "country": "United Kingdom",
-    "score": 16,
-    "deadline": "2026-08-25",
-    "link": "https://uk.linkedin.com/jobs/view/early-career-fellow-lecturer-in-digital-innovation-and-artificial-intelligence-at-the-university-of-edinburgh-4456964239",
+    "institution": "University of Manitoba",
+    "title": "Assistant or Associate Professor - CRC Tier 2 - Pharmacy",
+    "country": "Canada",
+    "score": 17,
+    "deadline": "2026-09-14",
+    "link": "https://ca.linkedin.com/jobs/view/assistant-or-associate-professor-crc-tier-2-pharmacy-at-university-of-manitoba-4467262590",
     "status": "Not started"
   },
   {
@@ -778,17 +899,6 @@
     "score": 16,
     "deadline": "2026-09-01",
     "link": "https://nl.linkedin.com/jobs/view/assistant-professor-of-operations-analytics-machine-learning-sustainability-at-vrije-universiteit-amsterdam-vu-amsterdam-4445901906",
-    "status": "Not started"
-  },
-  {
-    "id": "4461566153",
-    "source": "LinkedIn",
-    "institution": "The London School of Economics and Political Science (LSE)",
-    "title": "Assistant Professor in International Development (Quantitative Social Science)",
-    "country": "United Kingdom",
-    "score": 16,
-    "deadline": "2026-09-01",
-    "link": "https://uk.linkedin.com/jobs/view/assistant-professor-in-international-development-quantitative-social-science-at-the-london-school-of-economics-and-political-science-lse-4461566153",
     "status": "Not started"
   },
   {
@@ -946,17 +1056,6 @@
     "status": "Not started"
   },
   {
-    "id": "4463511192",
-    "source": "LinkedIn",
-    "institution": "University of Helsinki",
-    "title": "Professor/Associate or Assistant Professor, Meteorology",
-    "country": "Finland",
-    "score": 16,
-    "deadline": "2026-09-08",
-    "link": "https://fi.linkedin.com/jobs/view/professor-associate-or-assistant-professor-meteorology-at-university-of-helsinki-4463511192",
-    "status": "Not started"
-  },
-  {
     "id": "4464089626",
     "source": "LinkedIn",
     "institution": "DTU - Technical University of Denmark",
@@ -987,17 +1086,6 @@
     "score": 16,
     "deadline": "2026-09-08",
     "link": "https://se.linkedin.com/jobs/view/postdoc-in-nutritional-metabolomics-at-chalmers-university-of-technology-4461965271",
-    "status": "Not started"
-  },
-  {
-    "id": "4463028013",
-    "source": "LinkedIn",
-    "institution": "University of Twente",
-    "title": "Two Assistant Professorship Positions in Sustainability Studies",
-    "country": "Netherlands",
-    "score": 16,
-    "deadline": "2026-09-09",
-    "link": "https://nl.linkedin.com/jobs/view/two-assistant-professorship-positions-in-sustainability-studies-at-university-of-twente-4463028013",
     "status": "Not started"
   },
   {
@@ -1089,17 +1177,6 @@
     "status": "Not started"
   },
   {
-    "id": "4466094748",
-    "source": "LinkedIn",
-    "institution": "DTU - Technical University of Denmark",
-    "title": "Postdoc in Deep Tech Entrepreneurship and University Innovation Ecosystems - DTU Entrepreneurship",
-    "country": "Denmark",
-    "score": 16,
-    "deadline": "2026-09-14",
-    "link": "https://dk.linkedin.com/jobs/view/postdoc-in-deep-tech-entrepreneurship-and-university-innovation-ecosystems-dtu-entrepreneurship-at-dtu-technical-university-of-denmark-4466094748",
-    "status": "Not started"
-  },
-  {
     "id": "4465718796",
     "source": "LinkedIn",
     "institution": "Chalmers University of Technology",
@@ -1108,6 +1185,160 @@
     "score": 16,
     "deadline": "2026-09-14",
     "link": "https://se.linkedin.com/jobs/view/postdoc-in-accurate-magnetic-loss-measurements-for-electrical-machines-enabling-reduced-heavy-rare-earth-material-utilization-at-chalmers-university-of-technology-4465718796",
+    "status": "Not started"
+  },
+  {
+    "id": "4466094748",
+    "source": "LinkedIn",
+    "institution": "DTU - Technical University of Denmark",
+    "title": "Postdoc in Deep Tech Entrepreneurship and University Innovation Ecosystems - DTU Entrepreneurship",
+    "country": "Denmark",
+    "score": 16,
+    "deadline": "2026-09-15",
+    "link": "https://dk.linkedin.com/jobs/view/postdoc-in-deep-tech-entrepreneurship-and-university-innovation-ecosystems-dtu-entrepreneurship-at-dtu-technical-university-of-denmark-4466094748",
+    "status": "Not started"
+  },
+  {
+    "id": "4458746346",
+    "source": "LinkedIn",
+    "institution": "University of Amsterdam",
+    "title": "Tenured Faculty Position in Analysis (assistant, associate or Full Professor)",
+    "country": "Netherlands",
+    "score": 16,
+    "deadline": "2026-09-15",
+    "link": "https://nl.linkedin.com/jobs/view/tenured-faculty-position-in-analysis-assistant-associate-or-full-professor-at-university-of-amsterdam-4458746346",
+    "status": "Not started"
+  },
+  {
+    "id": "4463511192",
+    "source": "LinkedIn",
+    "institution": "University of Helsinki",
+    "title": "Professor/Associate or Assistant Professor, Meteorology",
+    "country": "Finland",
+    "score": 16,
+    "deadline": "2026-09-16",
+    "link": "https://fi.linkedin.com/jobs/view/professor-associate-or-assistant-professor-meteorology-at-university-of-helsinki-4463511192",
+    "status": "Not started"
+  },
+  {
+    "id": "4456964239",
+    "source": "LinkedIn",
+    "institution": "The University of Edinburgh",
+    "title": "Early Career Fellow / Lecturer in Digital Innovation and Artificial Intelligence",
+    "country": "United Kingdom",
+    "score": 16,
+    "deadline": "2026-09-16",
+    "link": "https://uk.linkedin.com/jobs/view/early-career-fellow-lecturer-in-digital-innovation-and-artificial-intelligence-at-the-university-of-edinburgh-4456964239",
+    "status": "Not started"
+  },
+  {
+    "id": "4461566153",
+    "source": "LinkedIn",
+    "institution": "The London School of Economics and Political Science (LSE)",
+    "title": "Assistant Professor in International Development (Quantitative Social Science)",
+    "country": "United Kingdom",
+    "score": 16,
+    "deadline": "2026-09-17",
+    "link": "https://uk.linkedin.com/jobs/view/assistant-professor-in-international-development-quantitative-social-science-at-the-london-school-of-economics-and-political-science-lse-4461566153",
+    "status": "Not started"
+  },
+  {
+    "id": "4467598332",
+    "source": "LinkedIn",
+    "institution": "Vancouver Island University",
+    "title": "Professor, Math",
+    "country": "Canada",
+    "score": 16,
+    "deadline": "2026-09-17",
+    "link": "https://ca.linkedin.com/jobs/view/professor-math-at-vancouver-island-university-4467598332",
+    "status": "Not started"
+  },
+  {
+    "id": "4466285551",
+    "source": "LinkedIn",
+    "institution": "Utrecht University",
+    "title": "Postdoc Position in AI Foundation Models for Crop Microbiomes",
+    "country": "Netherlands",
+    "score": 16,
+    "deadline": "2026-09-17",
+    "link": "https://nl.linkedin.com/jobs/view/postdoc-position-in-ai-foundation-models-for-crop-microbiomes-at-utrecht-university-4466285551",
+    "status": "Not started"
+  },
+  {
+    "id": "4463028013",
+    "source": "LinkedIn",
+    "institution": "University of Twente",
+    "title": "Two Assistant Professorship Positions in Sustainability Studies",
+    "country": "Netherlands",
+    "score": 16,
+    "deadline": "2026-09-18",
+    "link": "https://nl.linkedin.com/jobs/view/two-assistant-professorship-positions-in-sustainability-studies-at-university-of-twente-4463028013",
+    "status": "Not started"
+  },
+  {
+    "id": "4467846022",
+    "source": "LinkedIn",
+    "institution": "University of Helsinki",
+    "title": "Postdoctoral Researcher in Ecological Networks and Biodiversity Conservation",
+    "country": "Finland",
+    "score": 16,
+    "deadline": "2026-09-18",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-in-ecological-networks-and-biodiversity-conservation-at-university-of-helsinki-4467846022",
+    "status": "Not started"
+  },
+  {
+    "id": "4469160324",
+    "source": "LinkedIn",
+    "institution": "LungResearch@HelmholtzMunich",
+    "title": "Postdoc (f/m/x) \u2013 Neuroscience, Epigenetics and Metabolic Aging",
+    "country": "Germany",
+    "score": 16,
+    "deadline": "2026-09-18",
+    "link": "https://de.linkedin.com/jobs/view/postdoc-f-m-x-%E2%80%93-neuroscience-epigenetics-and-metabolic-aging-at-lungresearch%40helmholtzmunich-4469160324",
+    "status": "Not started"
+  },
+  {
+    "id": "4465549800",
+    "source": "LinkedIn",
+    "institution": "Hanken School of Economics",
+    "title": "Assistant Professor (tenure track) in Management & Organisation / Bitr\u00e4dande professor (tenure track, niv\u00e5 1) i f\u00f6retagsledning och organisation",
+    "country": "Finland",
+    "score": 16,
+    "deadline": "2026-09-21",
+    "link": "https://fi.linkedin.com/jobs/view/assistant-professor-tenure-track-in-management-organisation-bitr%C3%A4dande-professor-tenure-track-niv%C3%A5-1-i-f%C3%B6retagsledning-och-organisation-at-hanken-school-of-economics-4465549800",
+    "status": "Not started"
+  },
+  {
+    "id": "4469894749",
+    "source": "LinkedIn",
+    "institution": "DTU - Technical University of Denmark",
+    "title": "Postdoc in Entrepreneurship and Innovation for Regenerative Food Systems - DTU Entrepreneurship",
+    "country": "Denmark",
+    "score": 16,
+    "deadline": "2026-09-21",
+    "link": "https://dk.linkedin.com/jobs/view/postdoc-in-entrepreneurship-and-innovation-for-regenerative-food-systems-dtu-entrepreneurship-at-dtu-technical-university-of-denmark-4469894749",
+    "status": "Not started"
+  },
+  {
+    "id": "4468214612",
+    "source": "LinkedIn",
+    "institution": "DTU - Technical University of Denmark",
+    "title": "Postdocs in Development of high-performance Power Converters and Drives with Edge computing and Machine Learning capabilities - DTU Wind",
+    "country": "Denmark",
+    "score": 16,
+    "deadline": "2026-09-21",
+    "link": "https://dk.linkedin.com/jobs/view/postdocs-in-development-of-high-performance-power-converters-and-drives-with-edge-computing-and-machine-learning-capabilities-dtu-wind-at-dtu-technical-university-of-denmark-4468214612",
+    "status": "Not started"
+  },
+  {
+    "id": "4469897721",
+    "source": "LinkedIn",
+    "institution": "DTU - Technical University of Denmark",
+    "title": "Postdoc in the molecular mechanisms and evolution of fungal antimicrobial resistance - DTU Bioengineering",
+    "country": "Denmark",
+    "score": 16,
+    "deadline": "2026-09-21",
+    "link": "https://dk.linkedin.com/jobs/view/postdoc-in-the-molecular-mechanisms-and-evolution-of-fungal-antimicrobial-resistance-dtu-bioengineering-at-dtu-technical-university-of-denmark-4469897721",
     "status": "Not started"
   },
   {
@@ -1163,17 +1394,6 @@
     "score": 15,
     "deadline": "2026-08-31",
     "link": "https://uk.linkedin.com/jobs/view/lecturer-in-strategic-management-at-the-university-of-sheffield-4449566986",
-    "status": "Not started"
-  },
-  {
-    "id": "4461554478",
-    "source": "LinkedIn",
-    "institution": "The London School of Economics and Political Science (LSE)",
-    "title": "Assistant Professor in Finance",
-    "country": "United Kingdom",
-    "score": 15,
-    "deadline": "2026-09-01",
-    "link": "https://uk.linkedin.com/jobs/view/assistant-professor-in-finance-at-the-london-school-of-economics-and-political-science-lse-4461554478",
     "status": "Not started"
   },
   {
@@ -1262,6 +1482,105 @@
     "score": 15,
     "deadline": "2026-09-14",
     "link": "https://de.linkedin.com/jobs/view/university-professorship-w3-%E2%80%9Eresponsible-leadership%E2%80%9C-at-karlsruhe-institute-of-technology-kit-4465779320",
+    "status": "Not started"
+  },
+  {
+    "id": "4461554478",
+    "source": "LinkedIn",
+    "institution": "The London School of Economics and Political Science (LSE)",
+    "title": "Assistant Professor in Finance",
+    "country": "United Kingdom",
+    "score": 15,
+    "deadline": "2026-09-15",
+    "link": "https://uk.linkedin.com/jobs/view/assistant-professor-in-finance-at-the-london-school-of-economics-and-political-science-lse-4461554478",
+    "status": "Not started"
+  },
+  {
+    "id": "4465909764",
+    "source": "LinkedIn",
+    "institution": "Seneca Polytechnic",
+    "title": "Professor - Police Foundations",
+    "country": "Canada",
+    "score": 15,
+    "deadline": "2026-09-15",
+    "link": "https://ca.linkedin.com/jobs/view/professor-police-foundations-at-seneca-polytechnic-4465909764",
+    "status": "Not started"
+  },
+  {
+    "id": "4467794470",
+    "source": "LinkedIn",
+    "institution": "LEO Foundation Skin Immunology Research Center (SIC)",
+    "title": "Postdoc in Democratic Innovations and Moralizing Politics",
+    "country": "Denmark",
+    "score": 15,
+    "deadline": "2026-09-15",
+    "link": "https://dk.linkedin.com/jobs/view/postdoc-in-democratic-innovations-and-moralizing-politics-at-leo-foundation-skin-immunology-research-center-sic-4467794470",
+    "status": "Not started"
+  },
+  {
+    "id": "4467977112",
+    "source": "LinkedIn",
+    "institution": "ivm",
+    "title": "Assistant Professor, tenure track, qualification agreement",
+    "country": "India",
+    "score": 15,
+    "deadline": "2026-09-16",
+    "link": "https://in.linkedin.com/jobs/view/assistant-professor-tenure-track-qualification-agreement-at-ivm-4467977112",
+    "status": "Not started"
+  },
+  {
+    "id": "4468666816",
+    "source": "LinkedIn",
+    "institution": "World Food Programme",
+    "title": "Economist P4",
+    "country": "Italy",
+    "score": 15,
+    "deadline": "2026-09-17",
+    "link": "https://it.linkedin.com/jobs/view/economist-p4-at-world-food-programme-4468666816",
+    "status": "Not started"
+  },
+  {
+    "id": "4467185883",
+    "source": "LinkedIn",
+    "institution": "Pune Institute of Business Management",
+    "title": "Assistant Professor",
+    "country": "India",
+    "score": 15,
+    "deadline": "2026-09-17",
+    "link": "https://in.linkedin.com/jobs/view/assistant-professor-at-pune-institute-of-business-management-4467185883",
+    "status": "Not started"
+  },
+  {
+    "id": "4466615526",
+    "source": "LinkedIn",
+    "institution": "PSL Research University",
+    "title": "Post-doctorant Programme de recherche Re-contract (F/H)",
+    "country": "France",
+    "score": 15,
+    "deadline": "2026-09-17",
+    "link": "https://fr.linkedin.com/jobs/view/post-doctorant-programme-de-recherche-re-contract-f-h-at-psl-research-university-4466615526",
+    "status": "Not started"
+  },
+  {
+    "id": "4468891999",
+    "source": "LinkedIn",
+    "institution": "University of Oulu",
+    "title": "Postdoctoral Researcher, Medical Statistics",
+    "country": "Finland",
+    "score": 15,
+    "deadline": "2026-09-18",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-medical-statistics-at-university-of-oulu-4468891999",
+    "status": "Not started"
+  },
+  {
+    "id": "4469171675",
+    "source": "LinkedIn",
+    "institution": "Barcelona Supercomputing Center",
+    "title": "Postdoctoral for climate services (R2)",
+    "country": "Spain",
+    "score": 15,
+    "deadline": "2026-09-18",
+    "link": "https://es.linkedin.com/jobs/view/postdoctoral-for-climate-services-r2-at-barcelona-supercomputing-center-4469171675",
     "status": "Not started"
   },
   {
@@ -1606,17 +1925,6 @@
     "status": "Not started"
   },
   {
-    "id": "4464824939",
-    "source": "LinkedIn",
-    "institution": "Cardiff Metropolitan University",
-    "title": "Lecturer in Architecture",
-    "country": "United Kingdom",
-    "score": 14,
-    "deadline": "2026-09-11",
-    "link": "https://uk.linkedin.com/jobs/view/lecturer-in-architecture-at-cardiff-metropolitan-university-4464824939",
-    "status": "Not started"
-  },
-  {
     "id": "4466478390",
     "source": "LinkedIn",
     "institution": "K.R. Mangalam University",
@@ -1625,6 +1933,17 @@
     "score": 14,
     "deadline": "2026-09-12",
     "link": "https://in.linkedin.com/jobs/view/professor-associate-assistant-professor-%E2%80%93-pharmaceutical-chemistry-pharmaceutics-pharmacognosy-at-k-r-mangalam-university-4466478390",
+    "status": "Not started"
+  },
+  {
+    "id": "4467244095",
+    "source": "LinkedIn",
+    "institution": "Erasmus University Rotterdam",
+    "title": "Lecturer/(PhD) researcher private-law liability position of European ports",
+    "country": "Netherlands",
+    "score": 14,
+    "deadline": "2026-09-14",
+    "link": "https://nl.linkedin.com/jobs/view/lecturer-phd-researcher-private-law-liability-position-of-european-ports-at-erasmus-university-rotterdam-4467244095",
     "status": "Not started"
   },
   {
@@ -1705,6 +2024,193 @@
     "status": "Not started"
   },
   {
+    "id": "4458796721",
+    "source": "LinkedIn",
+    "institution": "University of Amsterdam",
+    "title": "Assistant Professor of Natural Language Processing",
+    "country": "Netherlands",
+    "score": 14,
+    "deadline": "2026-09-15",
+    "link": "https://nl.linkedin.com/jobs/view/assistant-professor-of-natural-language-processing-at-university-of-amsterdam-4458796721",
+    "status": "Not started"
+  },
+  {
+    "id": "4466543559",
+    "source": "LinkedIn",
+    "institution": "IT-Universitetet i K\u00f8benhavn",
+    "title": "Part-Time Lecturer position for the course Data Science in Production: MLOps and Software Engineering",
+    "country": "Denmark",
+    "score": 14,
+    "deadline": "2026-09-15",
+    "link": "https://dk.linkedin.com/jobs/view/part-time-lecturer-position-for-the-course-data-science-in-production-mlops-and-software-engineering-at-it-universitetet-i-k%C3%B8benhavn-4466543559",
+    "status": "Not started"
+  },
+  {
+    "id": "4467727675",
+    "source": "LinkedIn",
+    "institution": "Bath College",
+    "title": "Lecturer in Functional Skills Maths and English",
+    "country": "United Kingdom",
+    "score": 14,
+    "deadline": "2026-09-15",
+    "link": "https://uk.linkedin.com/jobs/view/lecturer-in-functional-skills-maths-and-english-at-bath-college-4467727675",
+    "status": "Not started"
+  },
+  {
+    "id": "4464824939",
+    "source": "LinkedIn",
+    "institution": "Cardiff Metropolitan University",
+    "title": "Lecturer in Architecture",
+    "country": "United Kingdom",
+    "score": 14,
+    "deadline": "2026-09-15",
+    "link": "https://uk.linkedin.com/jobs/view/lecturer-in-architecture-at-cardiff-metropolitan-university-4464824939",
+    "status": "Not started"
+  },
+  {
+    "id": "4467591578",
+    "source": "LinkedIn",
+    "institution": "University Positions",
+    "title": "Assistant Professor in Macroeconomics",
+    "country": "Netherlands",
+    "score": 14,
+    "deadline": "2026-09-17",
+    "link": "https://nl.linkedin.com/jobs/view/assistant-professor-in-macroeconomics-at-university-positions-4467591578",
+    "status": "Not started"
+  },
+  {
+    "id": "4468666820",
+    "source": "LinkedIn",
+    "institution": "Department of Pharmacy, University of Copenhagen",
+    "title": "Assistant Professor for Computational Non-Target Screening of Contaminants of Emerging Concern",
+    "country": "France",
+    "score": 14,
+    "deadline": "2026-09-17",
+    "link": "https://fr.linkedin.com/jobs/view/assistant-professor-for-computational-non-target-screening-of-contaminants-of-emerging-concern-at-department-of-pharmacy-university-of-copenhagen-4468666820",
+    "status": "Not started"
+  },
+  {
+    "id": "4468641277",
+    "source": "LinkedIn",
+    "institution": "University of Konstanz",
+    "title": "Academic Position / Pre- or Postdoctoral Level",
+    "country": "Germany",
+    "score": 14,
+    "deadline": "2026-09-17",
+    "link": "https://de.linkedin.com/jobs/view/academic-position-pre-or-postdoctoral-level-at-university-of-konstanz-4468641277",
+    "status": "Not started"
+  },
+  {
+    "id": "4469178042",
+    "source": "LinkedIn",
+    "institution": "Uppsala University",
+    "title": "Assistant Professor in Engineering Sciences",
+    "country": "Sweden",
+    "score": 14,
+    "deadline": "2026-09-18",
+    "link": "https://se.linkedin.com/jobs/view/assistant-professor-in-engineering-sciences-at-uppsala-university-4469178042",
+    "status": "Not started"
+  },
+  {
+    "id": "4467872108",
+    "source": "LinkedIn",
+    "institution": "University of Helsinki",
+    "title": "Postdoctoral Researcher in Climate Democracy",
+    "country": "Finland",
+    "score": 14,
+    "deadline": "2026-09-18",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-in-climate-democracy-at-university-of-helsinki-4467872108",
+    "status": "Not started"
+  },
+  {
+    "id": "4469145634",
+    "source": "LinkedIn",
+    "institution": "6G Flagship",
+    "title": "Postdoctoral Researcher, Medical Statistics",
+    "country": "Finland",
+    "score": 14,
+    "deadline": "2026-09-18",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-medical-statistics-at-6g-flagship-4469145634",
+    "status": "Not started"
+  },
+  {
+    "id": "4469184352",
+    "source": "LinkedIn",
+    "institution": "Aalborg University",
+    "title": "Postdoc Position in System Optimization Using Digital Twin for Power-to-X processes",
+    "country": "Denmark",
+    "score": 14,
+    "deadline": "2026-09-18",
+    "link": "https://dk.linkedin.com/jobs/view/postdoc-position-in-system-optimization-using-digital-twin-for-power-to-x-processes-at-aalborg-university-4469184352",
+    "status": "Not started"
+  },
+  {
+    "id": "4463199585",
+    "source": "LinkedIn",
+    "institution": "University of Bern",
+    "title": "Lecturer in English for Academic Purposes (scientific collaborator)",
+    "country": "Switzerland",
+    "score": 14,
+    "deadline": "2026-09-19",
+    "link": "https://ch.linkedin.com/jobs/view/lecturer-in-english-for-academic-purposes-scientific-collaborator-at-university-of-bern-4463199585",
+    "status": "Not started"
+  },
+  {
+    "id": "4467337560",
+    "source": "LinkedIn",
+    "institution": "Aarhus University",
+    "title": "Assistant / Associate Professor at the Department of Public Health",
+    "country": "Denmark",
+    "score": 14,
+    "deadline": "2026-09-20",
+    "link": "https://dk.linkedin.com/jobs/view/assistant-associate-professor-at-the-department-of-public-health-at-aarhus-university-4467337560",
+    "status": "Not started"
+  },
+  {
+    "id": "4467351234",
+    "source": "LinkedIn",
+    "institution": "Aarhus University",
+    "title": "Associate Professor at the Department of Public Health",
+    "country": "Denmark",
+    "score": 14,
+    "deadline": "2026-09-20",
+    "link": "https://dk.linkedin.com/jobs/view/associate-professor-at-the-department-of-public-health-at-aarhus-university-4467351234",
+    "status": "Not started"
+  },
+  {
+    "id": "4466999536",
+    "source": "LinkedIn",
+    "institution": "Chanakya University",
+    "title": "Assistant Professor",
+    "country": "India",
+    "score": 14,
+    "deadline": "2026-09-20",
+    "link": "https://in.linkedin.com/jobs/view/assistant-professor-at-chanakya-university-4466999536",
+    "status": "Not started"
+  },
+  {
+    "id": "4467099862",
+    "source": "LinkedIn",
+    "institution": "Vrije Universiteit Amsterdam (VU Amsterdam)",
+    "title": "Lecturer Sport and Performance Psychology",
+    "country": "Netherlands",
+    "score": 14,
+    "deadline": "2026-09-21",
+    "link": "https://nl.linkedin.com/jobs/view/lecturer-sport-and-performance-psychology-at-vrije-universiteit-amsterdam-vu-amsterdam-4467099862",
+    "status": "Not started"
+  },
+  {
+    "id": "4468758960",
+    "source": "LinkedIn",
+    "institution": "Helsingin normaalilyseo - Helsinki Normal Lyceum",
+    "title": "POSTDOCTORAL RESEARCHER in Quantum Computing Middleware and Applications",
+    "country": "Finland",
+    "score": 14,
+    "deadline": "2026-09-21",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-in-quantum-computing-middleware-and-applications-at-helsingin-normaalilyseo-helsinki-normal-lyceum-4468758960",
+    "status": "Not started"
+  },
+  {
     "id": "12627",
     "source": "EJM",
     "institution": "Aix-Marseille Universit\u00e9",
@@ -1727,17 +2233,6 @@
     "status": "Not started"
   },
   {
-    "id": "4447991860",
-    "source": "LinkedIn",
-    "institution": "Tampere University",
-    "title": "Tenure track position, Electronics and Embedded Systems (Assistant Professor, Associate Professor, or Professor) / Tenure track -teht\u00e4v\u00e4, Elektroniikka ja sulautetut j\u00e4rjestelm\u00e4t",
-    "country": "Finland",
-    "score": 13,
-    "deadline": "2026-08-25",
-    "link": "https://fi.linkedin.com/jobs/view/tenure-track-position-electronics-and-embedded-systems-assistant-professor-associate-professor-or-professor-tenure-track-teht%C3%A4v%C3%A4-elektroniikka-ja-sulautetut-j%C3%A4rjestelm%C3%A4t-at-tampere-university-4447991860",
-    "status": "Not started"
-  },
-  {
     "id": "4458777772",
     "source": "LinkedIn",
     "institution": "University of Alberta",
@@ -1746,17 +2241,6 @@
     "score": 13,
     "deadline": "2026-08-25",
     "link": "https://ca.linkedin.com/jobs/view/assistant-associate-professor-in-forest-hydrology-at-university-of-alberta-4458777772",
-    "status": "Not started"
-  },
-  {
-    "id": "4448477409",
-    "source": "LinkedIn",
-    "institution": "Aalto University",
-    "title": "Postdoctoral researcher in the field of superconducting quantum circuits",
-    "country": "Finland",
-    "score": 13,
-    "deadline": "2026-08-28",
-    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-in-the-field-of-superconducting-quantum-circuits-at-aalto-university-4448477409",
     "status": "Not started"
   },
   {
@@ -1801,17 +2285,6 @@
     "score": 13,
     "deadline": "2026-09-01",
     "link": "https://se.linkedin.com/jobs/view/assistant-professor-in-information-systems-and-innovation-management-at-stockholm-school-of-economics-4459589740",
-    "status": "Not started"
-  },
-  {
-    "id": "4460602826",
-    "source": "LinkedIn",
-    "institution": "UMC Utrecht",
-    "title": "Postdoc on the Effectiveness of Open Science Interventions",
-    "country": "Netherlands",
-    "score": 13,
-    "deadline": "2026-09-01",
-    "link": "https://nl.linkedin.com/jobs/view/postdoc-on-the-effectiveness-of-open-science-interventions-at-umc-utrecht-4460602826",
     "status": "Not started"
   },
   {
@@ -1878,17 +2351,6 @@
     "score": 13,
     "deadline": "2026-09-08",
     "link": "https://de.linkedin.com/jobs/view/lecturer-m-f-d-in-accounting-at-international-university-sdi-m%C3%BCnchen-4462513437",
-    "status": "Not started"
-  },
-  {
-    "id": "4463637889",
-    "source": "LinkedIn",
-    "institution": "University of Calgary",
-    "title": "Assistant Professor, Department of Political Science (Canada Impact+ Emerging Leader)",
-    "country": "Canada",
-    "score": 13,
-    "deadline": "2026-09-08",
-    "link": "https://ca.linkedin.com/jobs/view/assistant-professor-department-of-political-science-canada-impact%2B-emerging-leader-at-university-of-calgary-4463637889",
     "status": "Not started"
   },
   {
@@ -1969,6 +2431,17 @@
     "status": "Not started"
   },
   {
+    "id": "4460602826",
+    "source": "LinkedIn",
+    "institution": "UMC Utrecht",
+    "title": "Postdoc on the Effectiveness of Open Science Interventions",
+    "country": "Netherlands",
+    "score": 13,
+    "deadline": "2026-09-14",
+    "link": "https://nl.linkedin.com/jobs/view/postdoc-on-the-effectiveness-of-open-science-interventions-at-umc-utrecht-4460602826",
+    "status": "Not started"
+  },
+  {
     "id": "4465763649",
     "source": "LinkedIn",
     "institution": "University of Helsinki",
@@ -1977,6 +2450,226 @@
     "score": 13,
     "deadline": "2026-09-14",
     "link": "https://fi.linkedin.com/jobs/view/postdoctoral-research-fellow-in-rna-biology-and-disease-mechanisms-group-garcia-at-university-of-helsinki-4465763649",
+    "status": "Not started"
+  },
+  {
+    "id": "4467794467",
+    "source": "LinkedIn",
+    "institution": "LEO Foundation Skin Immunology Research Center (SIC)",
+    "title": "Assistant Professor in Companion Animal Surgery (DipECVS or DipACVS)",
+    "country": "Denmark",
+    "score": 13,
+    "deadline": "2026-09-15",
+    "link": "https://dk.linkedin.com/jobs/view/assistant-professor-in-companion-animal-surgery-dipecvs-or-dipacvs-at-leo-foundation-skin-immunology-research-center-sic-4467794467",
+    "status": "Not started"
+  },
+  {
+    "id": "4467794468",
+    "source": "LinkedIn",
+    "institution": "LEO Foundation Skin Immunology Research Center (SIC)",
+    "title": "1-2 Assistant Professor positions in Experimental Hematology",
+    "country": "Denmark",
+    "score": 13,
+    "deadline": "2026-09-15",
+    "link": "https://dk.linkedin.com/jobs/view/1-2-assistant-professor-positions-in-experimental-hematology-at-leo-foundation-skin-immunology-research-center-sic-4467794468",
+    "status": "Not started"
+  },
+  {
+    "id": "4465581156",
+    "source": "LinkedIn",
+    "institution": "The University of Manchester",
+    "title": "Lecturer in Civil Engineering Hydrodynamics",
+    "country": "United Kingdom",
+    "score": 13,
+    "deadline": "2026-09-15",
+    "link": "https://uk.linkedin.com/jobs/view/lecturer-in-civil-engineering-hydrodynamics-at-the-university-of-manchester-4465581156",
+    "status": "Not started"
+  },
+  {
+    "id": "4466530759",
+    "source": "LinkedIn",
+    "institution": "Tampere University",
+    "title": "Doctoral Researcher (Gamification / Games / XR / GenAI / Emerging Media for Engagement with Sustainable Futures), 1-3 positions / V\u00e4it\u00f6skirjatutkija, 1-3 teht\u00e4v\u00e4\u00e4",
+    "country": "Finland",
+    "score": 13,
+    "deadline": "2026-09-15",
+    "link": "https://fi.linkedin.com/jobs/view/doctoral-researcher-gamification-games-xr-genai-emerging-media-for-engagement-with-sustainable-futures-1-3-positions-v%C3%A4it%C3%B6skirjatutkija-1-3-teht%C3%A4v%C3%A4%C3%A4-at-tampere-university-4466530759",
+    "status": "Not started"
+  },
+  {
+    "id": "4447991860",
+    "source": "LinkedIn",
+    "institution": "Tampere University",
+    "title": "Tenure track position, Electronics and Embedded Systems (Assistant Professor, Associate Professor, or Professor) / Tenure track -teht\u00e4v\u00e4, Elektroniikka ja sulautetut j\u00e4rjestelm\u00e4t",
+    "country": "Finland",
+    "score": 13,
+    "deadline": "2026-09-16",
+    "link": "https://fi.linkedin.com/jobs/view/tenure-track-position-electronics-and-embedded-systems-assistant-professor-associate-professor-or-professor-tenure-track-teht%C3%A4v%C3%A4-elektroniikka-ja-sulautetut-j%C3%A4rjestelm%C3%A4t-at-tampere-university-4447991860",
+    "status": "Not started"
+  },
+  {
+    "id": "4468203437",
+    "source": "LinkedIn",
+    "institution": "University of Oulu",
+    "title": "Postdoctoral Researcher in snow and microclimate processes of cold-climate ecosystems",
+    "country": "Finland",
+    "score": 13,
+    "deadline": "2026-09-16",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-in-snow-and-microclimate-processes-of-cold-climate-ecosystems-at-university-of-oulu-4468203437",
+    "status": "Not started"
+  },
+  {
+    "id": "4467995028",
+    "source": "LinkedIn",
+    "institution": "University of Oulu",
+    "title": "Postdoctoral Researcher, Science and Technology Studies (STS) and aquatic restoration in the Nordic and Arctic regions",
+    "country": "Finland",
+    "score": 13,
+    "deadline": "2026-09-16",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-science-and-technology-studies-sts-and-aquatic-restoration-in-the-nordic-and-arctic-regions-at-university-of-oulu-4467995028",
+    "status": "Not started"
+  },
+  {
+    "id": "4468307270",
+    "source": "LinkedIn",
+    "institution": "LEO Foundation Skin Immunology Research Center (SIC)",
+    "title": "Postdoc in Ancient Human and Pathogen Genomics",
+    "country": "Denmark",
+    "score": 13,
+    "deadline": "2026-09-16",
+    "link": "https://dk.linkedin.com/jobs/view/postdoc-in-ancient-human-and-pathogen-genomics-at-leo-foundation-skin-immunology-research-center-sic-4468307270",
+    "status": "Not started"
+  },
+  {
+    "id": "4461576012",
+    "source": "LinkedIn",
+    "institution": "The London School of Economics and Political Science (LSE)",
+    "title": "Assistant Professor in International Development",
+    "country": "United Kingdom",
+    "score": 13,
+    "deadline": "2026-09-17",
+    "link": "https://uk.linkedin.com/jobs/view/assistant-professor-in-international-development-at-the-london-school-of-economics-and-political-science-lse-4461576012",
+    "status": "Not started"
+  },
+  {
+    "id": "4468833340",
+    "source": "LinkedIn",
+    "institution": "Karolinska Institutet",
+    "title": "Postdoctoral Researcher in Metabolic Regulation of Inflammation",
+    "country": "Sweden",
+    "score": 13,
+    "deadline": "2026-09-17",
+    "link": "https://se.linkedin.com/jobs/view/postdoctoral-researcher-in-metabolic-regulation-of-inflammation-at-karolinska-institutet-4468833340",
+    "status": "Not started"
+  },
+  {
+    "id": "4467192674",
+    "source": "LinkedIn",
+    "institution": "Aalto University",
+    "title": "Postdoctoral Researcher Position in Organic Electronics / Plasmonics",
+    "country": "Finland",
+    "score": 13,
+    "deadline": "2026-09-17",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-position-in-organic-electronics-plasmonics-at-aalto-university-4467192674",
+    "status": "Not started"
+  },
+  {
+    "id": "4463637889",
+    "source": "LinkedIn",
+    "institution": "University of Calgary",
+    "title": "Assistant Professor, Department of Political Science (Canada Impact+ Emerging Leader)",
+    "country": "Canada",
+    "score": 13,
+    "deadline": "2026-09-18",
+    "link": "https://ca.linkedin.com/jobs/view/assistant-professor-department-of-political-science-canada-impact%2B-emerging-leader-at-university-of-calgary-4463637889",
+    "status": "Not started"
+  },
+  {
+    "id": "4469129601",
+    "source": "LinkedIn",
+    "institution": "Helmholtz Munich",
+    "title": "Postdoc (f/m/x) \u2013 Neuroscience, Epigenetics and Metabolic Aging",
+    "country": "Germany",
+    "score": 13,
+    "deadline": "2026-09-18",
+    "link": "https://de.linkedin.com/jobs/view/postdoc-f-m-x-%E2%80%93-neuroscience-epigenetics-and-metabolic-aging-at-helmholtz-munich-4469129601",
+    "status": "Not started"
+  },
+  {
+    "id": "4448477409",
+    "source": "LinkedIn",
+    "institution": "Aalto University",
+    "title": "Postdoctoral researcher in the field of superconducting quantum circuits",
+    "country": "Finland",
+    "score": 13,
+    "deadline": "2026-09-19",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-in-the-field-of-superconducting-quantum-circuits-at-aalto-university-4448477409",
+    "status": "Not started"
+  },
+  {
+    "id": "4404866567",
+    "source": "LinkedIn",
+    "institution": "University of Alberta",
+    "title": "Tenured or Tenure-Track Cluster of Assistant, Associate, or Full Professor Positions in Environmental Engineering",
+    "country": "Canada",
+    "score": 13,
+    "deadline": "2026-09-20",
+    "link": "https://ca.linkedin.com/jobs/view/tenured-or-tenure-track-cluster-of-assistant-associate-or-full-professor-positions-in-environmental-engineering-at-university-of-alberta-4404866567",
+    "status": "Not started"
+  },
+  {
+    "id": "4404853783",
+    "source": "LinkedIn",
+    "institution": "University of Alberta",
+    "title": "Tenured or Tenure-Track Cluster of Assistant, Associate, or Full Professor Positions in Geoenvironmental Engineering",
+    "country": "Canada",
+    "score": 13,
+    "deadline": "2026-09-20",
+    "link": "https://ca.linkedin.com/jobs/view/tenured-or-tenure-track-cluster-of-assistant-associate-or-full-professor-positions-in-geoenvironmental-engineering-at-university-of-alberta-4404853783",
+    "status": "Not started"
+  },
+  {
+    "id": "4469824532",
+    "source": "LinkedIn",
+    "institution": "LEO Foundation Skin Immunology Research Center (SIC)",
+    "title": "Postdoctoral position in functional ancient microbial ecogenomics within the Ancient Environmental Genomics Initiative for Sustainability (AEGIS)",
+    "country": "Denmark",
+    "score": 13,
+    "deadline": "2026-09-20",
+    "link": "https://dk.linkedin.com/jobs/view/postdoctoral-position-in-functional-ancient-microbial-ecogenomics-within-the-ancient-environmental-genomics-initiative-for-sustainability-aegis-at-leo-foundation-skin-immunology-research-center-sic-4469824532",
+    "status": "Not started"
+  },
+  {
+    "id": "4469862886",
+    "source": "LinkedIn",
+    "institution": "Instituto Complutense de An\u00e1lisis Econ\u00f3mico (ICAE)",
+    "title": "Assistant Professor of Economics",
+    "country": "Spain",
+    "score": 13,
+    "deadline": "2026-09-21",
+    "link": "https://es.linkedin.com/jobs/view/assistant-professor-of-economics-at-instituto-complutense-de-an%C3%A1lisis-econ%C3%B3mico-icae-4469862886",
+    "status": "Not started"
+  },
+  {
+    "id": "4469856409",
+    "source": "LinkedIn",
+    "institution": "Heriot-Watt University",
+    "title": "Research Assistant/Postdoctoral Research Associate in Energy Transition and Finance",
+    "country": "United Kingdom",
+    "score": 13,
+    "deadline": "2026-09-21",
+    "link": "https://uk.linkedin.com/jobs/view/research-assistant-postdoctoral-research-associate-in-energy-transition-and-finance-at-heriot-watt-university-4469856409",
+    "status": "Not started"
+  },
+  {
+    "id": "4468709282",
+    "source": "LinkedIn",
+    "institution": "Tribhuvan College, Neemrana, Rajasthan",
+    "title": "Assistant Professor \u2013 Business Management & Sustainable Development",
+    "country": "India",
+    "score": 13,
+    "deadline": "2026-09-21",
+    "link": "https://in.linkedin.com/jobs/view/assistant-professor-%E2%80%93-business-management-sustainable-development-at-tribhuvan-college-neemrana-rajasthan-4468709282",
     "status": "Not started"
   },
   {
@@ -1999,6 +2692,17 @@
     "score": 12,
     "deadline": "2026-11-01",
     "link": "https://econjobmarket.org/positions/12513",
+    "status": "Not started"
+  },
+  {
+    "id": "12642",
+    "source": "EJM + EJME",
+    "institution": "University of Cyprus",
+    "title": "Tenure-track Lecturer or Assistant Professor in Economics (two positions)",
+    "country": "Cyprus",
+    "score": 12,
+    "deadline": "2026-11-23",
+    "link": "https://econjobmarket.org/positions/12642",
     "status": "Not started"
   },
   {
@@ -2299,6 +3003,17 @@
     "status": "Not started"
   },
   {
+    "id": "4467296532",
+    "source": "LinkedIn",
+    "institution": "University of Amsterdam",
+    "title": "Postdoctoral Researcher in Digital Mediations of Religious and Civilisational Narratives",
+    "country": "Netherlands",
+    "score": 12,
+    "deadline": "2026-09-14",
+    "link": "https://nl.linkedin.com/jobs/view/postdoctoral-researcher-in-digital-mediations-of-religious-and-civilisational-narratives-at-university-of-amsterdam-4467296532",
+    "status": "Not started"
+  },
+  {
     "id": "4465483706",
     "source": "LinkedIn",
     "institution": "Heriot-Watt University",
@@ -2307,6 +3022,72 @@
     "score": 12,
     "deadline": "2026-09-14",
     "link": "https://uk.linkedin.com/jobs/view/postdoctoral-research-associate-in-the-intellectual-history-of-liberal-political-economy-at-heriot-watt-university-4465483706",
+    "status": "Not started"
+  },
+  {
+    "id": "4466220092",
+    "source": "LinkedIn",
+    "institution": "University of Suffolk",
+    "title": "Lecturer in Pharmacy (Pharmaceutics)",
+    "country": "United Kingdom",
+    "score": 12,
+    "deadline": "2026-09-16",
+    "link": "https://uk.linkedin.com/jobs/view/lecturer-in-pharmacy-pharmaceutics-at-university-of-suffolk-4466220092",
+    "status": "Not started"
+  },
+  {
+    "id": "4467985314",
+    "source": "LinkedIn",
+    "institution": "QA Ltd",
+    "title": "Lecturer",
+    "country": "United Kingdom",
+    "score": 12,
+    "deadline": "2026-09-16",
+    "link": "https://uk.linkedin.com/jobs/view/lecturer-at-qa-ltd-4467985314",
+    "status": "Not started"
+  },
+  {
+    "id": "4317229861",
+    "source": "LinkedIn",
+    "institution": "Trinity Western University",
+    "title": "Full-time Tenure-Track Faculty, Finance",
+    "country": "Canada",
+    "score": 12,
+    "deadline": "2026-09-16",
+    "link": "https://ca.linkedin.com/jobs/view/full-time-tenure-track-faculty-finance-at-trinity-western-university-4317229861",
+    "status": "Not started"
+  },
+  {
+    "id": "4467991701",
+    "source": "LinkedIn",
+    "institution": "6G Flagship",
+    "title": "Postdoctoral Researcher in snow and microclimate processes of cold-climate ecosystems",
+    "country": "Finland",
+    "score": 12,
+    "deadline": "2026-09-16",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-in-snow-and-microclimate-processes-of-cold-climate-ecosystems-at-6g-flagship-4467991701",
+    "status": "Not started"
+  },
+  {
+    "id": "4469172368",
+    "source": "LinkedIn",
+    "institution": "IOM - UN Migration",
+    "title": "Consultancy - Data Scientist",
+    "country": "Germany",
+    "score": 12,
+    "deadline": "2026-09-18",
+    "link": "https://de.linkedin.com/jobs/view/consultancy-data-scientist-at-iom-un-migration-4469172368",
+    "status": "Not started"
+  },
+  {
+    "id": "4467366187",
+    "source": "LinkedIn",
+    "institution": "Arrivo Education Private Limited",
+    "title": "Assistant Professor \u2013 Finance | Ahmedabad | Full-Time On-Campus",
+    "country": "India",
+    "score": 12,
+    "deadline": "2026-09-21",
+    "link": "https://in.linkedin.com/jobs/view/assistant-professor-%E2%80%93-finance-ahmedabad-full-time-on-campus-at-arrivo-education-private-limited-4467366187",
     "status": "Not started"
   },
   {
@@ -2538,17 +3319,6 @@
     "score": 11,
     "deadline": "2026-08-31",
     "link": "https://in.linkedin.com/jobs/view/assistant-professor-of-mathematics-at-amity-university-4458895004",
-    "status": "Not started"
-  },
-  {
-    "id": "4457109587",
-    "source": "LinkedIn",
-    "institution": "Tampere University",
-    "title": "Doctoral Researcher / V\u00e4it\u00f6skirjatutkija (Deep Learning for High-Frequency Financial Data Modeling)",
-    "country": "Finland",
-    "score": 11,
-    "deadline": "2026-08-31",
-    "link": "https://fi.linkedin.com/jobs/view/doctoral-researcher-v%C3%A4it%C3%B6skirjatutkija-deep-learning-for-high-frequency-financial-data-modeling-at-tampere-university-4457109587",
     "status": "Not started"
   },
   {
@@ -2959,6 +3729,127 @@
     "status": "Not started"
   },
   {
+    "id": "4467470189",
+    "source": "LinkedIn",
+    "institution": "Invertis University",
+    "title": "Assistant Professor in Computer Science & Engineering Dept",
+    "country": "India",
+    "score": 11,
+    "deadline": "2026-09-15",
+    "link": "https://in.linkedin.com/jobs/view/assistant-professor-in-computer-science-engineering-dept-at-invertis-university-4467470189",
+    "status": "Not started"
+  },
+  {
+    "id": "4466194271",
+    "source": "LinkedIn",
+    "institution": "Tampere University",
+    "title": "MSCA Doctoral Researcher, DETECTIVE project (virology) / V\u00e4it\u00f6skirjatutkija (virologia)",
+    "country": "Finland",
+    "score": 11,
+    "deadline": "2026-09-15",
+    "link": "https://fi.linkedin.com/jobs/view/msca-doctoral-researcher-detective-project-virology-v%C3%A4it%C3%B6skirjatutkija-virologia-at-tampere-university-4466194271",
+    "status": "Not started"
+  },
+  {
+    "id": "4466844508",
+    "source": "LinkedIn",
+    "institution": "Kaplan",
+    "title": "Online Module Lecturer Master of Public Health (MPH)",
+    "country": "United Kingdom",
+    "score": 11,
+    "deadline": "2026-09-16",
+    "link": "https://uk.linkedin.com/jobs/view/online-module-lecturer-master-of-public-health-mph-at-kaplan-4466844508",
+    "status": "Not started"
+  },
+  {
+    "id": "4466848367",
+    "source": "LinkedIn",
+    "institution": "Tampere University",
+    "title": "MSCA Doctoral Researcher, DETECTIVE project (wastewater virology and epidemic prediction) / V\u00e4it\u00f6skirjatutkija (j\u00e4tevesivirologia ja epidemioiden ennustaminen)",
+    "country": "Finland",
+    "score": 11,
+    "deadline": "2026-09-16",
+    "link": "https://fi.linkedin.com/jobs/view/msca-doctoral-researcher-detective-project-wastewater-virology-and-epidemic-prediction-v%C3%A4it%C3%B6skirjatutkija-j%C3%A4tevesivirologia-ja-epidemioiden-ennustaminen-at-tampere-university-4466848367",
+    "status": "Not started"
+  },
+  {
+    "id": "4468670795",
+    "source": "LinkedIn",
+    "institution": "The London School of Economics and Political Science (LSE)",
+    "title": "Assistant Professor in Statistics",
+    "country": "United Kingdom",
+    "score": 11,
+    "deadline": "2026-09-17",
+    "link": "https://uk.linkedin.com/jobs/view/assistant-professor-in-statistics-at-the-london-school-of-economics-and-political-science-lse-4468670795",
+    "status": "Not started"
+  },
+  {
+    "id": "4467199496",
+    "source": "LinkedIn",
+    "institution": "MIT Vishwaprayaag University",
+    "title": "Assistant Professor - Marketing",
+    "country": "India",
+    "score": 11,
+    "deadline": "2026-09-17",
+    "link": "https://in.linkedin.com/jobs/view/assistant-professor-marketing-at-mit-vishwaprayaag-university-4467199496",
+    "status": "Not started"
+  },
+  {
+    "id": "4467873625",
+    "source": "LinkedIn",
+    "institution": "Aalto University",
+    "title": "Postdoctoral Researcher in Speech and Language Technology",
+    "country": "Finland",
+    "score": 11,
+    "deadline": "2026-09-18",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-in-speech-and-language-technology-at-aalto-university-4467873625",
+    "status": "Not started"
+  },
+  {
+    "id": "4457109587",
+    "source": "LinkedIn",
+    "institution": "Tampere University",
+    "title": "Doctoral Researcher / V\u00e4it\u00f6skirjatutkija (Deep Learning for High-Frequency Financial Data Modeling)",
+    "country": "Finland",
+    "score": 11,
+    "deadline": "2026-09-18",
+    "link": "https://fi.linkedin.com/jobs/view/doctoral-researcher-v%C3%A4it%C3%B6skirjatutkija-deep-learning-for-high-frequency-financial-data-modeling-at-tampere-university-4457109587",
+    "status": "Not started"
+  },
+  {
+    "id": "4468012889",
+    "source": "LinkedIn",
+    "institution": "University Positions",
+    "title": "Doctoral Researcher in Viral Ecology (m/f/d)",
+    "country": "Germany",
+    "score": 11,
+    "deadline": "2026-09-18",
+    "link": "https://de.linkedin.com/jobs/view/doctoral-researcher-in-viral-ecology-m-f-d-at-university-positions-4468012889",
+    "status": "Not started"
+  },
+  {
+    "id": "4468439907",
+    "source": "LinkedIn",
+    "institution": "Dayananda Sagar University",
+    "title": "Assistant Professor Computer Science Engineering",
+    "country": "India",
+    "score": 11,
+    "deadline": "2026-09-20",
+    "link": "https://in.linkedin.com/jobs/view/assistant-professor-computer-science-engineering-at-dayananda-sagar-university-4468439907",
+    "status": "Not started"
+  },
+  {
+    "id": "4468753953",
+    "source": "LinkedIn",
+    "institution": "Bonn-Rhein-Sieg University of Applied Sciences",
+    "title": "Professor:in (d/m/w) f\u00fcr Social Media und digitale Kommunikation (W2)",
+    "country": "Germany",
+    "score": 11,
+    "deadline": "2026-09-21",
+    "link": "https://de.linkedin.com/jobs/view/professor-in-d-m-w-f%C3%BCr-social-media-und-digitale-kommunikation-w2-at-bonn-rhein-sieg-university-of-applied-sciences-4468753953",
+    "status": "Not started"
+  },
+  {
     "id": "12608",
     "source": "EJM",
     "institution": "Ghent University",
@@ -2967,6 +3858,17 @@
     "score": 10,
     "deadline": "2026-09-28",
     "link": "https://econjobmarket.org/positions/12608",
+    "status": "Not started"
+  },
+  {
+    "id": "12604",
+    "source": "EJM",
+    "institution": "University of Toronto",
+    "title": "Assistant Professor, Teaching Stream - Economics",
+    "country": "Canada",
+    "score": 10,
+    "deadline": "2026-11-16",
+    "link": "https://econjobmarket.org/positions/12604",
     "status": "Not started"
   },
   {
@@ -3077,17 +3979,6 @@
     "score": 10,
     "deadline": "2026-08-28",
     "link": "https://fr.linkedin.com/jobs/view/data-scientist-at-bandai-namco-entertainment-europe-4460303648",
-    "status": "Not started"
-  },
-  {
-    "id": "4449211042",
-    "source": "LinkedIn",
-    "institution": "ING Nederland",
-    "title": "(Senior) Sector economist Semiconductors & AI",
-    "country": "Netherlands",
-    "score": 10,
-    "deadline": "2026-08-29",
-    "link": "https://nl.linkedin.com/jobs/view/senior-sector-economist-semiconductors-ai-at-ing-nederland-4449211042",
     "status": "Not started"
   },
   {
@@ -3454,6 +4345,17 @@
     "status": "Not started"
   },
   {
+    "id": "4467212725",
+    "source": "LinkedIn",
+    "institution": "FHWN Campus Tulln",
+    "title": "(Senior) Lecturer & Researcher Institut f\u00fcr Finance, Controlling & Economics",
+    "country": "Austria",
+    "score": 10,
+    "deadline": "2026-09-14",
+    "link": "https://at.linkedin.com/jobs/view/senior-lecturer-researcher-institut-f%C3%BCr-finance-controlling-economics-at-fhwn-campus-tulln-4467212725",
+    "status": "Not started"
+  },
+  {
     "id": "4467054681",
     "source": "LinkedIn",
     "institution": "FHWN Campus Wieselburg",
@@ -3473,6 +4375,94 @@
     "score": 10,
     "deadline": "2026-09-14",
     "link": "https://lu.linkedin.com/jobs/view/lecturer-senior-lecturer-in-sport-management-at-lunex-4465489763",
+    "status": "Not started"
+  },
+  {
+    "id": "4466537879",
+    "source": "LinkedIn",
+    "institution": "GBS",
+    "title": "Lecturer in Business & Digital Transformation - East London",
+    "country": "United Kingdom",
+    "score": 10,
+    "deadline": "2026-09-15",
+    "link": "https://uk.linkedin.com/jobs/view/lecturer-in-business-digital-transformation-east-london-at-gbs-4466537879",
+    "status": "Not started"
+  },
+  {
+    "id": "4466556359",
+    "source": "LinkedIn",
+    "institution": "GBS",
+    "title": "Lecturer in Business & Digital Transformation - West London",
+    "country": "United Kingdom",
+    "score": 10,
+    "deadline": "2026-09-15",
+    "link": "https://uk.linkedin.com/jobs/view/lecturer-in-business-digital-transformation-west-london-at-gbs-4466556359",
+    "status": "Not started"
+  },
+  {
+    "id": "4466216581",
+    "source": "LinkedIn",
+    "institution": "SciLifeLab",
+    "title": "Postdoctoral position in simulation-based inference for particle physics",
+    "country": "Sweden",
+    "score": 10,
+    "deadline": "2026-09-16",
+    "link": "https://se.linkedin.com/jobs/view/postdoctoral-position-in-simulation-based-inference-for-particle-physics-at-scilifelab-4466216581",
+    "status": "Not started"
+  },
+  {
+    "id": "4467183418",
+    "source": "LinkedIn",
+    "institution": "GGI: Gulzar Group of Institutes",
+    "title": "Assistant Professor of ATOT",
+    "country": "India",
+    "score": 10,
+    "deadline": "2026-09-17",
+    "link": "https://in.linkedin.com/jobs/view/assistant-professor-of-atot-at-ggi-gulzar-group-of-institutes-4467183418",
+    "status": "Not started"
+  },
+  {
+    "id": "4467844963",
+    "source": "LinkedIn",
+    "institution": "Helsingin normaalilyseo - Helsinki Normal Lyceum",
+    "title": "Postdoctoral Researcher in Climate Democracy",
+    "country": "Finland",
+    "score": 10,
+    "deadline": "2026-09-18",
+    "link": "https://fi.linkedin.com/jobs/view/postdoctoral-researcher-in-climate-democracy-at-helsingin-normaalilyseo-helsinki-normal-lyceum-4467844963",
+    "status": "Not started"
+  },
+  {
+    "id": "4466659577",
+    "source": "LinkedIn",
+    "institution": "Imperial School of Banking and Management Studies",
+    "title": "Assistant Professor (Finance)",
+    "country": "India",
+    "score": 10,
+    "deadline": "2026-09-18",
+    "link": "https://in.linkedin.com/jobs/view/assistant-professor-finance-at-imperial-school-of-banking-and-management-studies-4466659577",
+    "status": "Not started"
+  },
+  {
+    "id": "4466902340",
+    "source": "LinkedIn",
+    "institution": "Naturalis Biodiversity Center",
+    "title": "Postdoctoraal onderzoeker",
+    "country": "Netherlands",
+    "score": 10,
+    "deadline": "2026-09-18",
+    "link": "https://nl.linkedin.com/jobs/view/postdoctoraal-onderzoeker-at-naturalis-biodiversity-center-4466902340",
+    "status": "Not started"
+  },
+  {
+    "id": "4449211042",
+    "source": "LinkedIn",
+    "institution": "ING Nederland",
+    "title": "(Senior) Sector economist Semiconductors & AI",
+    "country": "Netherlands",
+    "score": 10,
+    "deadline": "2026-09-20",
+    "link": "https://nl.linkedin.com/jobs/view/senior-sector-economist-semiconductors-ai-at-ing-nederland-4449211042",
     "status": "Not started"
   },
   {
@@ -3839,17 +4829,6 @@
     "status": "Not started"
   },
   {
-    "id": "4464520850",
-    "source": "LinkedIn",
-    "institution": "University of Helsinki",
-    "title": "Kotiel\u00e4intieteen professori tai apulaisprofessori",
-    "country": "Finland",
-    "score": 9,
-    "deadline": "2026-09-10",
-    "link": "https://fi.linkedin.com/jobs/view/kotiel%C3%A4intieteen-professori-tai-apulaisprofessori-at-university-of-helsinki-4464520850",
-    "status": "Not started"
-  },
-  {
     "id": "4447069736",
     "source": "LinkedIn",
     "institution": "SRH University",
@@ -3913,6 +4892,182 @@
     "score": 9,
     "deadline": "2026-09-12",
     "link": "https://uk.linkedin.com/jobs/view/assistant-professor-research-g7-research-fellow-in-hydrogen-innovation-at-durham-university-4466452047",
+    "status": "Not started"
+  },
+  {
+    "id": "4465243954",
+    "source": "LinkedIn",
+    "institution": "Technische Universit\u00e4t Berlin",
+    "title": "Wissenschaftliche*r Mitarbeiter*in (Postdoc) (d/m/w) \u2013 2. Qualifizierungsphase (zur erstmaligen \u00dcbernahme einer ordentlichen Professur)",
+    "country": "Germany",
+    "score": 9,
+    "deadline": "2026-09-14",
+    "link": "https://de.linkedin.com/jobs/view/wissenschaftliche-r-mitarbeiter-in-postdoc-d-m-w-%E2%80%93-2-qualifizierungsphase-zur-erstmaligen-%C3%BCbernahme-einer-ordentlichen-professur-at-technische-universit%C3%A4t-berlin-4465243954",
+    "status": "Not started"
+  },
+  {
+    "id": "4467709442",
+    "source": "LinkedIn",
+    "institution": "Technological University of the Shannon",
+    "title": "Assistant Lecturer - Quantity Surveying",
+    "country": "Ireland",
+    "score": 9,
+    "deadline": "2026-09-15",
+    "link": "https://ie.linkedin.com/jobs/view/assistant-lecturer-quantity-surveying-at-technological-university-of-the-shannon-4467709442",
+    "status": "Not started"
+  },
+  {
+    "id": "4467957968",
+    "source": "LinkedIn",
+    "institution": "Nord University",
+    "title": "Professor/f\u00f8rsteamanuensis innen e-helse",
+    "country": "Norway",
+    "score": 9,
+    "deadline": "2026-09-16",
+    "link": "https://no.linkedin.com/jobs/view/professor-f%C3%B8rsteamanuensis-innen-e-helse-at-nord-university-4467957968",
+    "status": "Not started"
+  },
+  {
+    "id": "4468328350",
+    "source": "LinkedIn",
+    "institution": "Faculty Of Computer Science And Applications VGU Jaipur",
+    "title": "Assistant Professor",
+    "country": "India",
+    "score": 9,
+    "deadline": "2026-09-16",
+    "link": "https://in.linkedin.com/jobs/view/assistant-professor-at-faculty-of-computer-science-and-applications-vgu-jaipur-4468328350",
+    "status": "Not started"
+  },
+  {
+    "id": "4467988302",
+    "source": "LinkedIn",
+    "institution": "Brainware University",
+    "title": "Senior Assistant Professor: Hospital Management",
+    "country": "India",
+    "score": 9,
+    "deadline": "2026-09-16",
+    "link": "https://in.linkedin.com/jobs/view/senior-assistant-professor-hospital-management-at-brainware-university-4467988302",
+    "status": "Not started"
+  },
+  {
+    "id": "4465988153",
+    "source": "LinkedIn",
+    "institution": "Universite de Lorraine",
+    "title": "Post-doctorant(e) en mod\u00e9lisation stochastique des longueurs de t\u00e9lom\u00e8res",
+    "country": "France",
+    "score": 9,
+    "deadline": "2026-09-16",
+    "link": "https://fr.linkedin.com/jobs/view/post-doctorant-e-en-mod%C3%A9lisation-stochastique-des-longueurs-de-t%C3%A9lom%C3%A8res-at-universite-de-lorraine-4465988153",
+    "status": "Not started"
+  },
+  {
+    "id": "4468232060",
+    "source": "LinkedIn",
+    "institution": "University of Kassel",
+    "title": "Wissenschaftliche:r Mitarbeiter:in Postdoc (m/w/d), EG 13 TV-H, Fachbereich Gesellschaftswissenschaften - Fachgebiet Internationale und intergesellschaftliche Beziehungen",
+    "country": "Germany",
+    "score": 9,
+    "deadline": "2026-09-16",
+    "link": "https://de.linkedin.com/jobs/view/wissenschaftliche-r-mitarbeiter-in-postdoc-m-w-d-eg-13-tv-h-fachbereich-gesellschaftswissenschaften-fachgebiet-internationale-und-intergesellschaftliche-beziehungen-at-university-of-kassel-4468232060",
+    "status": "Not started"
+  },
+  {
+    "id": "4468386835",
+    "source": "LinkedIn",
+    "institution": "University of Exeter",
+    "title": "Lecturer in DClinPsy (E&S)",
+    "country": "United Kingdom",
+    "score": 9,
+    "deadline": "2026-09-17",
+    "link": "https://uk.linkedin.com/jobs/view/lecturer-in-dclinpsy-e-s-at-university-of-exeter-4468386835",
+    "status": "Not started"
+  },
+  {
+    "id": "4467549705",
+    "source": "LinkedIn",
+    "institution": "Adventist University of the Philippines",
+    "title": "COT Female Faculty",
+    "country": "Canada",
+    "score": 9,
+    "deadline": "2026-09-17",
+    "link": "https://ca.linkedin.com/jobs/view/cot-female-faculty-at-adventist-university-of-the-philippines-4467549705",
+    "status": "Not started"
+  },
+  {
+    "id": "4468648239",
+    "source": "LinkedIn",
+    "institution": "Friedrich Schiller University Jena",
+    "title": "Wissenschaftliche:r Mitarbeiter:in f\u00fcr Evolution und Systematik der Pflanzen (Postdoc, Habilitand:in)",
+    "country": "Germany",
+    "score": 9,
+    "deadline": "2026-09-17",
+    "link": "https://de.linkedin.com/jobs/view/wissenschaftliche-r-mitarbeiter-in-f%C3%BCr-evolution-und-systematik-der-pflanzen-postdoc-habilitand-in-at-friedrich-schiller-university-jena-4468648239",
+    "status": "Not started"
+  },
+  {
+    "id": "4464520850",
+    "source": "LinkedIn",
+    "institution": "University of Helsinki",
+    "title": "Kotiel\u00e4intieteen professori tai apulaisprofessori",
+    "country": "Finland",
+    "score": 9,
+    "deadline": "2026-09-18",
+    "link": "https://fi.linkedin.com/jobs/view/kotiel%C3%A4intieteen-professori-tai-apulaisprofessori-at-university-of-helsinki-4464520850",
+    "status": "Not started"
+  },
+  {
+    "id": "4467999675",
+    "source": "LinkedIn",
+    "institution": "Universit\u00e4tsmedizin Frankfurt",
+    "title": "Postdoc - Gesundheits\u00f6konomie / Health Data Science im Projekt EU-MIC - Klinik f\u00fcr Psychiatrie, Psychosomatik und Psychotherapie",
+    "country": "Germany",
+    "score": 9,
+    "deadline": "2026-09-18",
+    "link": "https://de.linkedin.com/jobs/view/postdoc-gesundheits%C3%B6konomie-health-data-science-im-projekt-eu-mic-klinik-f%C3%BCr-psychiatrie-psychosomatik-und-psychotherapie-at-universit%C3%A4tsmedizin-frankfurt-4467999675",
+    "status": "Not started"
+  },
+  {
+    "id": "4469160893",
+    "source": "LinkedIn",
+    "institution": "Aalborg University",
+    "title": "Postdoc til TRANSITION+ Fra forskellige foruds\u00e6tninger til lige muligheder",
+    "country": "Denmark",
+    "score": 9,
+    "deadline": "2026-09-18",
+    "link": "https://dk.linkedin.com/jobs/view/postdoc-til-transition%2B-fra-forskellige-foruds%C3%A6tninger-til-lige-muligheder-at-aalborg-university-4469160893",
+    "status": "Not started"
+  },
+  {
+    "id": "4469536782",
+    "source": "LinkedIn",
+    "institution": "Universidade de Aveiro",
+    "title": "Postdoctoral Fellowship available in the framework of the project INTERREG EUROPE SMARTAUTO",
+    "country": "Portugal",
+    "score": 9,
+    "deadline": "2026-09-19",
+    "link": "https://www.linkedin.com/jobs/view/4469536782",
+    "status": "Not started"
+  },
+  {
+    "id": "4468058797",
+    "source": "LinkedIn",
+    "institution": "Kumaraguru College of Technology",
+    "title": "Assistant Professor - School of Computing",
+    "country": "India",
+    "score": 9,
+    "deadline": "2026-09-19",
+    "link": "https://in.linkedin.com/jobs/view/assistant-professor-school-of-computing-at-kumaraguru-college-of-technology-4468058797",
+    "status": "Not started"
+  },
+  {
+    "id": "4469892111",
+    "source": "LinkedIn",
+    "institution": "Ecole nationale des Travaux publics de l'Etat",
+    "title": "Postdoctoral Researcher",
+    "country": "France",
+    "score": 9,
+    "deadline": "2026-09-21",
+    "link": "https://fr.linkedin.com/jobs/view/postdoctoral-researcher-at-ecole-nationale-des-travaux-publics-de-l-etat-4469892111",
     "status": "Not started"
   },
   {
@@ -4125,6 +5280,105 @@
     "status": "Not started"
   },
   {
+    "id": "4467277976",
+    "source": "LinkedIn",
+    "institution": "Karolinska Institutet",
+    "title": "Postdoctoral studies on the function of circuits and neuron subtypes (scholarship)",
+    "country": "Sweden",
+    "score": 8,
+    "deadline": "2026-09-14",
+    "link": "https://se.linkedin.com/jobs/view/postdoctoral-studies-on-the-function-of-circuits-and-neuron-subtypes-scholarship-at-karolinska-institutet-4467277976",
+    "status": "Not started"
+  },
+  {
+    "id": "4465550099",
+    "source": "LinkedIn",
+    "institution": "European Institute of Innovation, Entrepreneurship and Technology",
+    "title": "Lecturer in Hospitality Management",
+    "country": "Germany",
+    "score": 8,
+    "deadline": "2026-09-15",
+    "link": "https://de.linkedin.com/jobs/view/lecturer-in-hospitality-management-at-european-institute-of-innovation-entrepreneurship-and-technology-4465550099",
+    "status": "Not started"
+  },
+  {
+    "id": "4458158365",
+    "source": "LinkedIn",
+    "institution": "SRM Institute of Science and Technology, Kattankulathur Campus",
+    "title": "MBA - Assistant/Associate/Professor",
+    "country": "India",
+    "score": 8,
+    "deadline": "2026-09-16",
+    "link": "https://www.linkedin.com/jobs/view/4458158365",
+    "status": "Not started"
+  },
+  {
+    "id": "4458179165",
+    "source": "LinkedIn",
+    "institution": "SRM Institute of Science and Technology, Kattankulathur Campus",
+    "title": "Assistant Professor of Computer Science",
+    "country": "India",
+    "score": 8,
+    "deadline": "2026-09-16",
+    "link": "https://www.linkedin.com/jobs/view/4458179165",
+    "status": "Not started"
+  },
+  {
+    "id": "4467520965",
+    "source": "LinkedIn",
+    "institution": "Deutsche Mathematiker-Vereinigung (DMV)",
+    "title": "Assistant Professors in Analytic Number Theory, Automorphic Forms and Representation Theory",
+    "country": "Denmark",
+    "score": 8,
+    "deadline": "2026-09-17",
+    "link": "https://dk.linkedin.com/jobs/view/assistant-professors-in-analytic-number-theory-automorphic-forms-and-representation-theory-at-deutsche-mathematiker-vereinigung-dmv-4467520965",
+    "status": "Not started"
+  },
+  {
+    "id": "4466610568",
+    "source": "LinkedIn",
+    "institution": "Centre for Collective Intelligence Design",
+    "title": "Principal Researcher -A Fairer Start (Fixed Term, Parental Leave Cover)",
+    "country": "United Kingdom",
+    "score": 8,
+    "deadline": "2026-09-17",
+    "link": "https://uk.linkedin.com/jobs/view/principal-researcher-a-fairer-start-fixed-term-parental-leave-cover-at-centre-for-collective-intelligence-design-4466610568",
+    "status": "Not started"
+  },
+  {
+    "id": "4468834458",
+    "source": "LinkedIn",
+    "institution": "University of Alberta",
+    "title": "Tenured or Tenure-Track Faculty Position in Accounting",
+    "country": "Canada",
+    "score": 8,
+    "deadline": "2026-09-17",
+    "link": "https://ca.linkedin.com/jobs/view/tenured-or-tenure-track-faculty-position-in-accounting-at-university-of-alberta-4468834458",
+    "status": "Not started"
+  },
+  {
+    "id": "4466690730",
+    "source": "LinkedIn",
+    "institution": "Nesta",
+    "title": "Principal Researcher",
+    "country": "United Kingdom",
+    "score": 8,
+    "deadline": "2026-09-18",
+    "link": "https://uk.linkedin.com/jobs/view/principal-researcher-at-nesta-4466690730",
+    "status": "Not started"
+  },
+  {
+    "id": "4468729186",
+    "source": "LinkedIn",
+    "institution": "Friedrich-Loeffler-Institut",
+    "title": "Wiss. Mitarbeiterin / Wiss. Mitarbeiter (PostDoc) (w/m/d) im Institut f\u00fcr Epidemiologie",
+    "country": "Germany",
+    "score": 8,
+    "deadline": "2026-09-21",
+    "link": "https://de.linkedin.com/jobs/view/wiss-mitarbeiterin-wiss-mitarbeiter-postdoc-w-m-d-im-institut-f%C3%BCr-epidemiologie-at-friedrich-loeffler-institut-4468729186",
+    "status": "Not started"
+  },
+  {
     "id": "12554",
     "source": "EJM",
     "institution": "Simon Fraser University",
@@ -4147,6 +5401,17 @@
     "status": "Not started"
   },
   {
+    "id": "12653",
+    "source": "EJME",
+    "institution": "University of St. Gallen",
+    "title": "Assistant Professor (Tenure Track) in Macroeconomics",
+    "country": "Switzerland",
+    "score": 6,
+    "deadline": "2026-10-31",
+    "link": "https://econjobmarket.org/positions/12653",
+    "status": "Not started"
+  },
+  {
     "id": "12514",
     "source": "EJM",
     "institution": "Institut Polytechnique de Paris",
@@ -4155,6 +5420,17 @@
     "score": 6,
     "deadline": "2026-11-01",
     "link": "https://econjobmarket.org/positions/12514",
+    "status": "Not started"
+  },
+  {
+    "id": "12688",
+    "source": "EJM + EJME",
+    "institution": "Einaudi Institute for Economics and Finance",
+    "title": "Assistant Professor (Tenure-Track)",
+    "country": "Italy",
+    "score": 6,
+    "deadline": "2026-11-13",
+    "link": "https://econjobmarket.org/positions/12688",
     "status": "Not started"
   },
   {
@@ -4224,6 +5500,17 @@
     "status": "Not started"
   },
   {
+    "id": "12611",
+    "source": "EJM",
+    "institution": "Vilnius University",
+    "title": "Postdoctoral fellowship for research topic \"Impact of News\u2019 Signals on European",
+    "country": "Lithuania",
+    "score": 4,
+    "deadline": "2026-10-01",
+    "link": "https://econjobmarket.org/positions/12611",
+    "status": "Not started"
+  },
+  {
     "id": "12599",
     "source": "EJM + EJME",
     "institution": "Maynooth University",
@@ -4235,8 +5522,19 @@
     "status": "Not started"
   },
   {
-    "id": "12647",
+    "id": "12674",
     "source": "EJM",
+    "institution": "IE University",
+    "title": "Tenure-Track Assistant Professor in Finance 2027-2028",
+    "country": "Spain",
+    "score": 4,
+    "deadline": "2026-11-15",
+    "link": "https://econjobmarket.org/positions/12674",
+    "status": "Not started"
+  },
+  {
+    "id": "12647",
+    "source": "EJM + EJME",
     "institution": "University of Amsterdam",
     "title": "Assistant or Associate Professor in Finance",
     "country": "Netherlands",
